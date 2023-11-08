@@ -1,4 +1,4 @@
-with open('inputsam2.txt', 'r') as file:
+with open('input.txt', 'r') as file:
     content = file.read()
 
 letters_count = 0
